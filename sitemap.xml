@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://abhitemwitda223.github.io/Mywebsite2/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://abhitemwitda223.github.io/Mywebsite2/</loc>
+</url>
+<url>
+<loc>https://abhitemwitda223.github.io/Mywebsite2/about.html</loc>
+<lastmod>2024-09-03T08:41:21+02:00</lastmod>
+</url>
+<url>
+<loc>https://abhitemwitda223.github.io/Mywebsite2/contact-us.html</loc>
+<lastmod>2024-09-03T08:55:22+02:00</lastmod>
+</url>
+<url>
+<loc>https://abhitemwitda223.github.io/Mywebsite2/quality-timepieces.html</loc>
+<lastmod>2024-09-03T08:16:33+02:00</lastmod>
+<image:image>
+<image:loc>https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/richard-mille-rm-002-v2-tourbillon-45269-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/maxresdefault-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

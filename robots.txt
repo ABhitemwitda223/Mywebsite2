@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://abhitemwitda223.github.io/Mywebsite2/sitemap.xml

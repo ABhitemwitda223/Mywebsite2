@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Quality timepieces</title>
+    <link href="https://abhitemwitda223.github.io/Mywebsite2/feed.xml" rel="self" />
+    <link href="https://abhitemwitda223.github.io/Mywebsite2" />
+    <updated>2024-09-03T08:16:33+02:00</updated>
+    <author>
+        <name>Abakhe Ngamlana</name>
+    </author>
+    <id>https://abhitemwitda223.github.io/Mywebsite2</id>
+
+    <entry>
+        <title>QUALITY TIMEPIECES</title>
+        <author>
+            <name>Abakhe Ngamlana</name>
+        </author>
+        <link href="https://abhitemwitda223.github.io/Mywebsite2/quality-timepieces.html"/>
+        <id>https://abhitemwitda223.github.io/Mywebsite2/quality-timepieces.html</id>
+
+        <updated>2024-09-03T08:16:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Our Catalogue
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"><span style="color: #000000;">Our Catalogue</span></p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/richard-mille-rm-002-v2-tourbillon-45269.webp" data-size="1990x1374"><img loading="lazy" src="https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/richard-mille-rm-002-v2-tourbillon-45269-thumbnail.webp" alt="" width="720" height="497"></a></figure>
+<figure class="gallery__item"><a href="https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/maxresdefault.jpg" data-size="1280x720"><img loading="lazy" src="https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/maxresdefault-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

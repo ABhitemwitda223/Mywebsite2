@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Quality timepieces",
+    "description": "",
+    "home_page_url": "https://abhitemwitda223.github.io/Mywebsite2",
+    "feed_url": "https://abhitemwitda223.github.io/Mywebsite2/feed.json",
+    "user_comment": "",
+    "icon": "https://abhitemwitda223.github.io/Mywebsite2/media/website/Screenshot-2024-09-03-090832.png",
+    "author": {
+        "name": "Abakhe Ngamlana"
+    },
+    "items": [
+        {
+            "id": "https://abhitemwitda223.github.io/Mywebsite2/quality-timepieces.html",
+            "url": "https://abhitemwitda223.github.io/Mywebsite2/quality-timepieces.html",
+            "title": "QUALITY TIMEPIECES",
+            "summary": "Our Catalogue",
+            "content_html": "<p class=\"align-center\"><span style=\"color: #000000;\">Our Catalogue</span></p>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/richard-mille-rm-002-v2-tourbillon-45269.webp\" data-size=\"1990x1374\"><img loading=\"lazy\" src=\"https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/richard-mille-rm-002-v2-tourbillon-45269-thumbnail.webp\" alt=\"\" width=\"720\" height=\"497\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/maxresdefault.jpg\" data-size=\"1280x720\"><img loading=\"lazy\" src=\"https://abhitemwitda223.github.io/Mywebsite2/media/posts/1/gallery/maxresdefault-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Abakhe Ngamlana"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-03T08:16:33+02:00",
+            "date_modified": "2024-09-03T08:16:33+02:00"
+        }
+    ]
+}
